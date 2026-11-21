@@ -1,0 +1,7 @@
+MNIST CNN Classification Results
+===================================
+Epochs: 5
+Test samples: 10000
+Correct predictions: 9916
+Test accuracy: 99.16%
+Device: cuda
